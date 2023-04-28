@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647301775495",
+    "project_id": "michappbd",
+    "storage_bucket": "michappbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647301775495:android:5a3eb91666a21eb2713822",
+        "android_client_info": {
+          "package_name": "com.example.michapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647301775495-7gr882iamvgc63vj5ulonoq15u09n26k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Oqb3uhwJJSQWleUn5ltoa5Z-0iBgjkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647301775495-7gr882iamvgc63vj5ulonoq15u09n26k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
